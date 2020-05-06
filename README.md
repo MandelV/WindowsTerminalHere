@@ -14,3 +14,8 @@ Please Edit wt.reg and replace
 2. Double click on wt.reg !
 3. ...
 4. Profit !
+
+## Reference
+
+Windows Terminal : https://github.com/microsoft/terminal
+Linked issue : https://github.com/microsoft/terminal/issues/1060
